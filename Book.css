@@ -1,0 +1,44 @@
+.alllist{
+   
+  
+  
+   
+
+   
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+  
+}
+.book{
+    border-radius: 10px;
+   background: greenyellow;
+    margin: 10px;
+    padding: 10px;
+   width: 100%;
+   height: 100%;
+   max-width: 250px;
+   height: 100;
+   
+    
+    
+
+}
+.book >img{
+    border-radius: 10px;
+   width: 100%;
+   height: 50%;
+   
+
+  
+}
+
+.book>article{
+    margin-top: 10px;
+    color: red;
+}
